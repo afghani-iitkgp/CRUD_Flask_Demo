@@ -93,7 +93,7 @@ APIs List:
                             			]
                             			
         12. /delete_from_inventory/engine_number   :-> To delete an entry from the "Marketplace_Inventory".
-        12. /update_inventory 		:-> To update an entry with updated features.
+        13. /update_inventory 		:-> To update an entry with updated features.
                             			
 	
 	 
