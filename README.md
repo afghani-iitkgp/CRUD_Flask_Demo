@@ -101,6 +101,6 @@ APIs List:
 
 
 
-To run project run following command by going into projection directory.
->>> python flask_api.py 
+To run project run following command by going into project directory.
+```python3 flask_api.py``` 
 	 
