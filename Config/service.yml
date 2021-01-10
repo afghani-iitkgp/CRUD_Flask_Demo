@@ -1,0 +1,16 @@
+service_name: CRUD_with_Flask
+log_level: DEBUG
+
+settings:
+  ip: 0.0.0.0
+  port: 8000
+
+path:
+  log_path: "./var/"
+
+mysql_credentials:
+  user: "root"
+  password: "enter_ur_password_for_mysql"
+  host: "localhost"
+  database: "testCRUD"
+  port: 3306
