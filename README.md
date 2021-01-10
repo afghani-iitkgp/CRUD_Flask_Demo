@@ -96,4 +96,11 @@ APIs List:
         13. /update_inventory 		:-> To update an entry with updated features.
                             			
 	
+
+
+
+
+
+To run project run following command by going into projection directory.
+>>> python flask_api.py 
 	 
